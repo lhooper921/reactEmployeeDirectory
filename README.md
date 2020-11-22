@@ -14,7 +14,7 @@ This application allows users to view information about employees within a compa
 
 ## Deployed Application  
 
-https://lhooper921.github.io/employee-directory/
+https://lhooper921.github.io/reactEmployeeDirectory
 
 
 ## License
